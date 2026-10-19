@@ -1,0 +1,5 @@
+simulation: captions
+routing: path
+mocks:
+  - routeKey: openai
+    path: ../mocks/openai/config.yaml

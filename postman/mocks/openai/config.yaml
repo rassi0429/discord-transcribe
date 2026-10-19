@@ -1,0 +1,5 @@
+version: 1
+name: openai-translation
+description: Contract-shaped local OpenAI translation fixture; no real model.
+mockSrc: default.js
+interceptRequests: true

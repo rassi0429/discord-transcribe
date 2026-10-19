@@ -1,0 +1,16 @@
+node_modules/
+.env
+.env.*
+!.env.example
+.npmrc
+*.pem
+*.key
+credentials*.json
+secrets*.json
+*.log
+*.ndjson
+artifacts/
+postman/.dependencies/
+logs/
+scripts/log-current.js
+console.log*
